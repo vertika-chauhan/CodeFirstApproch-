@@ -55,11 +55,12 @@
     <Compile Include="DbContext.cs" />
     <Compile Include="Department.cs" />
     <Compile Include="Employee.cs" />
-    <Compile Include="GetAllEmployee.cs" />
+    <Compile Include="Query.cs" />
     <Compile Include="Level.cs" />
     <Compile Include="LevelAsPerDepartment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VieModelClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
